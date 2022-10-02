@@ -21,7 +21,7 @@ You can access this webpage through the following link: https://bankist-e773e.we
 ![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Bankist/blob/main/Screenshots/2.2.png?raw=true)
 
 ### Viewing all Transactions of User 1 after Sorting
-![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Bankist/blob/main/Screenshots/3.1.png?raw=true)
+![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Bankist/blob/main/Screenshots/3.png?raw=true)
 
 ### Requesting a Loan (User 1)
 ![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Bankist/blob/main/Screenshots/4.1.png?raw=true)
